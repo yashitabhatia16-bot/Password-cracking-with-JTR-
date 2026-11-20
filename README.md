@@ -1,6 +1,6 @@
 # Password-cracking-with-JTR-
 
-# NETWORKWALKS-B084-WK3-PASSWORD-CRACKING
+
 # Password Cracking & Security Testing
 
 This repository contains my Week 3 cybersecurity project work, where I explored how password-protected PDF files can be tested using different password recovery tools.
