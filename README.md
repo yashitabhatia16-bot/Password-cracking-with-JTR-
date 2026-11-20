@@ -1,5 +1,5 @@
 # Password-cracking-with-JTR-
-@@ -1 +1,90 @@
+
 # NETWORKWALKS-B084-WK3-PASSWORD-CRACKING
 # Password Cracking & Security Testing
 
