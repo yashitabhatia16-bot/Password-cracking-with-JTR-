@@ -66,7 +66,7 @@ Working on these two modules helped me understand:
 
 Screenshots of my lab work and the steps performed are included in this repository.
 
-![nslookup output](screenshots/Johnny.png)
+![nslookup output](screenshots/Johnny.jpeg)
 
 ![nslookup output](screenshots/locked1.png)
 
